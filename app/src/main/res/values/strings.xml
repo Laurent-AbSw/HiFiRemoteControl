@@ -1,6 +1,10 @@
 <resources>
-    <string name="app_name">HiFiRemoteControl</string>
+    <string name="app_name">HiFi Remote Control</string>
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="CD">CD player</string>
+    <string name="Spotify">Spotify</string>
+    <string name="Detect">Detect HiFi System</string>
+    <string name="OnOff">On/Off</string>
 </resources>
